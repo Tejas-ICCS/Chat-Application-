@@ -46,7 +46,7 @@ public class Server  implements ActionListener{
                         }
                     });
                     
-                    ImageIcon i4 = new ImageIcon(ClassLoader.getSystemResource("chatApp/Tejas.jpg"));
+                    ImageIcon i4 = new ImageIcon(ClassLoader.getSystemResource("chatApp/server1.jpg"));
                     Image i5 = i4.getImage().getScaledInstance(40,40 ,Image.SCALE_DEFAULT);
                     
                     ImageIcon i6 = new ImageIcon(i5); 
